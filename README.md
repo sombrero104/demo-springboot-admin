@@ -43,7 +43,7 @@
     </dependencies>
 <br/>
 
-클라이언트의 application.properties 파일에 아래와 같이 설정한다.<br/>
+클라이언트의 application.properties 파일을 만들고 아래와 같이 설정한다.<br/>
 클라이언트의 포트를 80으로 바꾸고, 접근을 오픈할 어드민 URL을 설정한다.  <br/>
 <pre>
 server.port=80
